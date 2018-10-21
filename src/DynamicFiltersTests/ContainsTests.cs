@@ -12,6 +12,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DynamicFiltersTests
 {
+
     //  Tests related to Contains() operator in lambda filters (issue #13
     [TestClass]
     public class ContainsTests : TestBase
